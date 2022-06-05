@@ -1,0 +1,16 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "Over 500 colors",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Colors"
+  ],
+  "author": "Bradley Dirheimer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirheimerb/colors.git"
+  },
+  "license": "MIT"
+}
